@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-BourbonA-0.1";
 const contentToCache = [
-    "Build/Bourbon_Kimura.loader.js",
-    "Build/Bourbon_Kimura.framework.js",
-    "Build/Bourbon_Kimura.data",
-    "Build/Bourbon_Kimura.wasm",
+    "Build/WebGLTemplate_0127.loader.js",
+    "Build/WebGLTemplate_0127.framework.js",
+    "Build/WebGLTemplate_0127.data",
+    "Build/WebGLTemplate_0127.wasm",
     "TemplateData/style.css"
 
 ];
